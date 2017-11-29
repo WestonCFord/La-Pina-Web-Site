@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>La Piña | Home</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="viewport" content="height=device-height, initial-scale=1"/>
+	<link rel="stylesheet" href="MainCSS.css"/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'/>
+  <link rel="stylesheet" type="text/css" href="MainCSS.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+</head>
+
+<div class="color-thingy">
+<body>
+  <header class="container">
+    <div class="row">
+     <a href="Home.html"><h1 class="col-sm-8">La Piña</h1></a>
+  	<nav class="col-sm-4">
+    	<a href="Home.html"><p>Home</p></a>
+    	<a href="Menu.html"><p>Menu</p></a>
+    	<a href="Contact.html"><p>Contact</p></a>
+    	<a href="Hiring.html"><p>Jobs</p></a>
+    	<a href="Gallery.html"><p>Gallery</p></a>
+    	<a href="Location.html"><p>Location</p></a>
+      </nav>
+    </div>
+  </header>
+  </div>
+  <section class="jumbotron">
+    <div class="container">
+      <div class="row text-center">
+        <h2>The Best Mexican Food In Savannah</h2>
+        <h3>Find us!</h3>
+        <a class="btn btn-primary" href="Location.html">Location</a>
+      </div>
+    </div>
+  </section>
+  <section class="container">
+    <div class="row">
+      <div class="col-sm-6">
+	      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+	  <div class="carousel-inner">
+		  <div class="item-active"> 
+			  <a href="Menu.html">
+				  <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13920755_1358349374194467_8508979647128742395_n.jpg?oh=649ea7d3114ce7e6be1a4c505cf69d2f&oe=5A870F1F" class="img-thumbnail"class="img-responsive"> </a>
+			  <div class="carousel-caption">
+				  <a href="Menu.html">Check Out Our Menu!</a>
+			  </div>
+		  </div>
+	  </div>
+  </div> 
+	  
+        
+      </div>
+      <div class="row">
+	  <div class="col-sm-6">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+	  <div class="carousel-inner">
+		  <div class="item-active">
+			  <a href="Gallery.html"> 
+			  <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13882446_1359227470773324_1048792345969912088_n.jpg?oh=7bf5155bde05f9c146cfcb43dc4f903f&oe=5A3ABE3E" class="img-thumbnail" class="img-responsive"> </a>
+			  <div class="carousel-caption">
+				  <a href="Gallery.html">Look at Our Gallery!</a>
+			  </div>
+		  </div>
+	  </div>
+        </div>
+      </div>
+    </div>
+	</div>
+	</div>
+  </section>
+	<div class="sto0ne">
+	<footer class="container">
+    <div class="row">
+      
+      <ul class="col-sm-8">
+        <li class="col-sm-1">
+          <a href="https://www.facebook.com/lapinasavannah/?rc=p">
+		   <img class= "fbimg" src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg">
+		  </a>
+        </li>
+      </ul>
+    </div>
+	</div>
+  </footer>
+</body>
+
+</html>
+
+

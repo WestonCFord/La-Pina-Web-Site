@@ -1,0 +1,279 @@
+html {
+	height: 100%;
+	background-color: #FFDEAD;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  background-color: #FFDEAD;
+}
+
+header {
+  padding: 1.5em 0px;
+  background-color: #5EBA34;
+margin: 0 0; 
+}
+
+header .row{
+	background-color: #5EBA34;
+}
+
+footer .row {
+  display: flex;
+  align-items: flex-end;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1em;
+}
+
+header p {
+  padding: 0 px;
+  margin: 0 1em;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://cdn.restaurantguru.com/restaurants/original/230736344.jpg');
+  background-size: cover;
+  color: #FFDEAD;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 3.75em;
+  font-weight: 700;
+  margin: 0;
+  color: #5EBA34;
+  
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+  
+}
+
+.jumbotron h3 {
+  margin: 0 0 1.25em;
+  color: #FFF;
+}
+
+section .row img {
+  margin: 0 0 1.875em;
+  width: 100%;
+}
+
+.col-md-6 {
+  margin: 0 0 1.875em;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #000;
+  text-shadow: none;
+  background-color: #FFDEAD;
+}
+
+.btn.btn-primary:hover {
+  color: #5EBA34;
+  background-color: #FFDEAD;
+}
+
+.btn.btn-primary:active {
+  color: #FFDEAD;
+  background-color: #5EBA34;
+}
+  
+.btn-secondary {
+  background-color: #FFDEAD;
+  color: #5EBA34;
+  margin: 0 0 1.875em;
+}
+
+footer {
+  font-size: 0.75em;
+  padding: 1.25em 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 2em;
+  height: 2em;
+}
+
+p {
+	
+}
+
+html {
+  background-color: #FFDEAD;
+}
+
+.hebrew {
+  background-color: #FFDEAD;
+  font-family: 'Oswald', sans-serif;
+}
+
+.sto0ne {
+  background-color: #5EBA34;
+  font-family: 'Oswald', sans-serif;
+  bottom:0;
+  background-size: cover;
+}
+
+.row {
+  font-size: 1.45em;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.boi	{
+  height: 54em;
+}
+
+a {
+  color: #000
+}
+
+.E{
+	width: 100%;
+	height: 100%;
+}
+
+.dumbledrawer{
+	display: flex;
+  align-items: center;
+  background-image: url('https://pbs.twimg.com/media/CM-2RJ_VEAEFjLR.jpg');
+  background-size: cover;
+  color: #C45A1E;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.color-thingy{
+	background-color: #5EBA34;
+}
+
+.row a:hover{
+	color: #FFF;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.row a:active{
+	color: #5EBA34;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.color-thingy a:hover{
+color: #FFF;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.color-thingy a:active{
+color: #5EBA34;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.carousel-caption a{
+	color: #FFF;
+}
+
+.carousel-caption a:hover{
+	color: #FFF;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.yaint h1{
+	color: #5EBA34;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.yaint h2{
+	color: #FFF;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.the-ting-go-skraa{
+	color: #5EBA34;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+@media only screen and (orientation: portrait) {
+header nav {
+  display: flex;
+  justify-content: center;
+  font-size: 1em;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+}
